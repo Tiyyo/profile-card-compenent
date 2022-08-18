@@ -36,8 +36,8 @@
     width: 100vw;
     background-image:url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
     background-size: 100%, 100%;
-    background-repeat: no-repeat;
-    background-position: -500px 250%, 500px -150% ;
+    background-repeat: no-repeat, no-repeat;
+    background-position: -50vw -90vh, 40vw 35vh ;
  }
  img{ max-width: 100%;
  }
